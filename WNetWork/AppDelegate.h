@@ -8,8 +8,12 @@
 
 #import <UIKit/UIKit.h>
 #import <CoreData/CoreData.h>
+#import "WNetCheck.h"
+
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (nonatomic, strong) WNetCheck *netCheck;
 
 @property (strong, nonatomic) UIWindow *window;
 

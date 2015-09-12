@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  WNetWork
+
+  Created by HoTia on 15/9/6.
+  Copyright (c) 2015年 will. All rights reserved.
+*/
+
+
+// GET
+
+"wGetTableViewController_title" = "GET request way";
+"wPostTableViewController_title" = "POST request way";
+"wGetTableViewController_oj_1" = "NSURLConnection asyn_1";
+"wGetTableViewController_oj_2" = "NSURLConnection asyn_2";
+"wGetTableViewController_oj_3" = "NSURLConnection syn";
+"wGetTableViewController_oj_4" = "AFNetworking";
+"wGetTableViewController_oj_5" = "ASIHTTPRequest";
+"wGetTableViewController_oj_6" = "MKNetworkKit";
+
+
